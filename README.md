@@ -12,12 +12,12 @@ A list of annoying SEO domains to block in your search engine. Examples include 
 2. Open the extension's settings by clicking on its icon at the top bar of your browser and clicking "Options".
 3. Scroll down to "Subscription"
 4. Click "Add a subscription"
-5. Enter "NSDE SpamSites" as the name and "https://raw.githubusercontent.com/nsde/spam-sites/master/spam-sites.txt" as the URL and click "Add".
+5. Enter "NSDE SpamSites" as the name and "https://raw.githubusercontent.com/nsde/spam-sites/main/spam-sites.txt" as the URL and click "Add".
 6. Have fun!
 
 ## Links
 - [📥 .txt file](spam-sites.txt)
-- [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmaster%2Fspam-sites.txt)
+- [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmain%2Fspam-sites.txt)
 
 ***
 
