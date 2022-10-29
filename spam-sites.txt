@@ -1,0 +1,2 @@
+*://*.folkstalk.com/*
+*::/*.programcreek.com/*
