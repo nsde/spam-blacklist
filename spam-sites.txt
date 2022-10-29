@@ -3,8 +3,9 @@
 # Licensed in 2022 under MIT
 # ===================================
 
-# StackOverflow Scraper
+# StackOverflow Scrapers
 *://*.folkstalk.com/*
+*://*.codegrepper.com/*
 
 # GitHub Scraper
 *://*.programcreek.com/*
@@ -14,11 +15,16 @@
 *://*.alibabacloud.com/*
 *://*.essekhaya.com/*
 
-# Results fetcher
+# Library fetcher
 *://*.openbase.com/*
+*://*.libhunt.com/*
+*://*.cspcorp.com/*
 
 # Other
 *://*.uzystore.com/*
 
 # ?
 *://*.9to5tutorial.com/*
+
+# Website not working?
+*://*.firesidegrillandbar.com/*
