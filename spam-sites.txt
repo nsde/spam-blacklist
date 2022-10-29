@@ -1,7 +1,7 @@
 *://*.folkstalk.com/*
-*::/*.programcreek.com/*
-*::/*.9to5tutorial.com/*
-**:/*.uzystore.com/*
-**:/*.alibabacloud.com/*
-**:/*.vidyasheela.com/*
-**:/*.openbase.com/*
+*://*.programcreek.com/*
+*://*.9to5tutorial.com/*
+*://*.uzystore.com/*
+*://*.alibabacloud.com/*
+*://*.vidyasheela.com/*
+*://*.openbase.com/*
