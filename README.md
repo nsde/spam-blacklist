@@ -2,6 +2,9 @@
 ###### This project is not made, endorsed, sponsored or affiliated with uBlacklist or its developers
 
 A list of annoying SEO domains to block in your search engine. Examples include websites with poor/no actual content other than keywords and ads.
+This is **especially** useful for smaller search engines such as *DuckDuckGo* or *Brave Search*!
+
+Feel free to use this list in your project in any way! You are totally welcome to create your own search engine and use my list in it.
 
 ### Installation
 1. Download *uBlacklist* (it's open source and automatically updates the list):
@@ -25,7 +28,7 @@ A list of annoying SEO domains to block in your search engine. Examples include 
 I've noticed how some search results in *DuckDuckGo* - the search engine I'm currently frequently using (aside from *Brave Search*) - are actually just spam websites filled with keywords built to earn money using ads.
 
 ### This project's goal
-I want to save others some time :)
+I want to save others quite some time :)
 
 ## uBlacklist Info
 The following information is not up-to-date! Please see [here](https://github.com/iorate/ublacklist) for an official, updated list.
