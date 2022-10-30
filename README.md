@@ -1,6 +1,6 @@
 # 🚮 Spam Sites Filterlist/Blacklist (Adware/Malware/Scams/...)
-### Focused on: gaming, programming · German & English websites · Made for: *uBlacklist*
-### Currently blocks 35+ (sub-)domains!
+### 💡 Topics: downloads/apps, gaming, programming · 🇩🇪 & 🇺🇸 websites
+### ⛔ Currently blocks 35+ (sub-)domains! · Made for: *uBlacklist*
 
 ###### This project is not made, endorsed, sponsored or affiliated with uBlacklist or its developers
 
