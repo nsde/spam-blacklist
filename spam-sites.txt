@@ -9,7 +9,13 @@
 
 # ===================================
 
-# Malware, scams and deception
+# Subscription traps
+*://*.verifysuper.com/*
+
+# Phishing
+*://*.jellycheat.com/*
+
+# Fake-APK Downloads
 *://*.downloadapktool.blogspot.com/*
 *://*.allapkpure.com/*
 *://*.trenovision.com/*
@@ -22,7 +28,21 @@
 *://*.newresultbd.com/*
 *://*.moddroidmod.com/*
 *://*.lusogamer.com/*
+*://*.malavida.com/*
+*://*.apkdone.com/*
+*://*.apkbind.com/*
+*://*.apkappmarket.com/*
+*://*.vsimpower.com/*
+*://*.igameapk.com/*
+*://*.moduolo.com/*
+*://*.apkmodyes.com/*
+*://*.darelorose.weebly.com/*
+*://*.jenolfe.weebly.com/*
+*://*.843hannahsilvatrending.blogspot.com/*
+*://*.4crack.pw/*
 
+
+# Fake YouTube Vanced APKs
 *://*.vancedapp.io/*
 *://*.youtubevanced.cc/*
 *://*.firsttechy.com/*
