@@ -16,6 +16,21 @@
 *://*.apksociety.com/*
 *://*.apkgetmods.com/*
 
+# Unofficial Download sites
+*://*.audacity-free.com/*
+*://*.audacityapp.net/*
+*://*.trackmaniapc.com/*
+
+*://*.download.cnet.com/*
+*://*.uptodown.com/*
+*://*.freedownloadmanager.org/*
+*://*.softonic.com/*
+*://*.downloads.digitaltrends.com/*
+
+# → German ones
+*://*.chip.de/downloads/*
+*://*.computerbild.de/download/*
+
 # StackOverflow-ish/FAQ-based
 *://*.folkstalk.com/*
 *://*.compuhoy.com/*
@@ -45,6 +60,9 @@
 
 # ?
 *://*.9to5tutorial.com/*
+
+# WTF
+*://*.repacklab.com/*
 
 # Website not working?
 *://*.firesidegrillandbar.com/*
