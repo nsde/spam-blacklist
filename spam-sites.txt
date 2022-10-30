@@ -15,6 +15,20 @@
 *://*.trenovision.com/*
 *://*.apksociety.com/*
 *://*.apkgetmods.com/*
+*://*.entireapk.com/*
+*://*.acemodapk.com/*
+*://*.getsapks.com/*
+*://*.podpage.com/*
+*://*.newresultbd.com/*
+*://*.moddroidmod.com/*
+*://*.lusogamer.com/*
+
+*://*.vancedapp.io/*
+*://*.youtubevanced.cc/*
+*://*.firsttechy.com/*
+*://*.re-vanced.com/*
+*://*.vanced-ios.com/*
+*://*.vanced-player.com/*
 
 # Unofficial Download sites
 *://*.audacity-free.com/*
