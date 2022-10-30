@@ -1,6 +1,6 @@
-# 🚮 Spam Sites Filterlist/Blacklist (Adware/Malware/Scams/...)
-### 💡 Topics: downloads/apps, gaming, programming · 🇩🇪 & 🇺🇸 websites
-### ⛔ Currently blocks 35+ (sub-)domains! · Made for: *uBlacklist*
+# 🚮 Spam Sites Filterlist/Blacklist (get rid of Malware & Adware!)
+### 💡 Topics: downloads, apps, gaming, programming · 🇺🇸 & 🇩🇪 websites
+### ⛔ Currently blocks 74+ (sub-)domains! · Made for: *uBlacklist*
 
 ###### This project is not made, endorsed, sponsored or affiliated with uBlacklist or its developers
 
@@ -9,7 +9,7 @@ This is **especially** useful for smaller search engines such as *DuckDuckGo* or
 
 Feel free to use this list in your project in any way! You are totally welcome to create your own search engine and use my list in it.
 
-### Installation
+## Install using uBlacklist
 1. Download *uBlacklist* (it's open source and automatically updates the list):
     - [**🦊 Firefox-based browsers:** LibreWolf/WaterFox/Pale Moon/Ice Cat/Mull/Dot/Basilisk/...](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
     - [**🌀 Chromium-based browsers**: Chromium/Brave/Opera/OperaGX/Vivaldi/Edge/Bromite/Kiwi/Yandex/Iridium/...](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
@@ -32,15 +32,15 @@ at the top bar of your browser and clicking "**Options**".
 
 8. Press "Enable"
 
-## Links
-- [📥 .txt file](spam-sites.txt)
-- [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmain%2Fspam-sites.txt)
-
-***
 
 9. Have fun! For this example, I searched for "clash of light download hacked apk crack" on DuckDuckGo, and **6 out of the first 13 results were BLOCKED**! 
 ![image](https://user-images.githubusercontent.com/67185896/198878423-5be0f369-7b7b-4151-a984-c536f1d94d0e.png)
 
+***
+
+## Links
+- [📥 .txt file](spam-sites.txt)
+- [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmain%2Fspam-sites.txt)
 
 ## About this project
 I've noticed how some search results in *DuckDuckGo* - the search engine I'm currently frequently using (aside from *Brave Search*) - are actually just spam websites filled with keywords built to earn money using ads.
