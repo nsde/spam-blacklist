@@ -1,4 +1,6 @@
-# 🚮 Annoying Spam Sites Filter List (especially for developers) [made for *uBlacklist*]
+# 🚮 Spam Sites Filterlist/Blacklist (Adware/Malware/Scams/...) 
+### Focused on: gaming, programming · Made for: *uBlacklist*
+
 ###### This project is not made, endorsed, sponsored or affiliated with uBlacklist or its developers
 
 A list of annoying SEO domains to block in your search engine. Examples include websites with poor/no actual content other than keywords and ads.
