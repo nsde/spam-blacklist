@@ -14,15 +14,19 @@
 *://*.compuhoy.com/*
 *://*.knologist.com/*
 *://*.declarecode.com/*
+*://*.technical-qa.com/*
+*://*.alexbecker.org/*
 
 # GitHub-ish/Code-based
 *://*.programcreek.com/*
 *://*.codegrepper.com/*
+*://*.w3codelab.com/*
 
 # Poor quality
 *://*.vidyasheela.com/*
 *://*.alibabacloud.com/*
 *://*.essekhaya.com/*
+*://*.aceassignment.org/*
 
 # Library fetcher
 *://*.openbase.com/*
