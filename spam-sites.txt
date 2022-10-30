@@ -1,13 +1,19 @@
 # SpamSites by NSDE
 # → https://github.com/nsde/spam-sites
+
+# PLEASE report issues and suggest
+# new sites using the "Issues" tab at
+# the GitHub repository :)
+
 # Licensed in 2022 under MIT
+
 # ===================================
 
 # StackOverflow-ish/FAQ-based
-# These one of the most annoying
 *://*.folkstalk.com/*
 *://*.compuhoy.com/*
 *://*.knologist.com/*
+*://*.declarecode.com/*
 
 # GitHub-ish/Code-based
 *://*.programcreek.com/*
