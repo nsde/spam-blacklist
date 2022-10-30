@@ -9,6 +9,13 @@
 
 # ===================================
 
+# Malware, scams and deception
+*://*.downloadapktool.blogspot.com/*
+*://*.allapkpure.com/*
+*://*.trenovision.com/*
+*://*.apksociety.com/*
+*://*.apkgetmods.com/*
+
 # StackOverflow-ish/FAQ-based
 *://*.folkstalk.com/*
 *://*.compuhoy.com/*
