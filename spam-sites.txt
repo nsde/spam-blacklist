@@ -40,7 +40,20 @@
 *://*.jenolfe.weebly.com/*
 *://*.843hannahsilvatrending.blogspot.com/*
 *://*.4crack.pw/*
+*://*.apkylo.com/*
+*://*.nuttyapps.com/*
+*://*.igamehot.co/*
+*://*.realapksclub.com/*
+*://*.aimbot.games/*
+*://*.realapksclub.com/*
+*://*.lootapk.in/*
 
+# Fake .exe Downloads
+*://*.gta-5-free.net/*
+*://*.play-gta-5.com/*
+
+*://*.ultimatecustomnightgame.net/*
+*://*.installgamepc.com/*
 
 # Fake YouTube Vanced APKs
 *://*.vancedapp.io/*
@@ -60,6 +73,7 @@
 *://*.freedownloadmanager.org/*
 *://*.softonic.com/*
 *://*.downloads.digitaltrends.com/*
+*://*.ccm.net/downloads/*
 
 # → German ones
 *://*.chip.de/downloads/*
