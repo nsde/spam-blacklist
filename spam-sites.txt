@@ -3,13 +3,15 @@
 # Licensed in 2022 under MIT
 # ===================================
 
-# StackOverflow/SEO Scrapers
+# StackOverflow-ish/FAQ-based
+# These one of the most annoying
 *://*.folkstalk.com/*
-*://*.codegrepper.com/*
 *://*.compuhoy.com/*
+*://*.knologist.com/*
 
-# GitHub Scraper
+# GitHub-ish/Code-based
 *://*.programcreek.com/*
+*://*.codegrepper.com/*
 
 # Poor quality
 *://*.vidyasheela.com/*
