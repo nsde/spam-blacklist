@@ -3,9 +3,10 @@
 # Licensed in 2022 under MIT
 # ===================================
 
-# StackOverflow Scrapers
+# StackOverflow/SEO Scrapers
 *://*.folkstalk.com/*
 *://*.codegrepper.com/*
+*://*.compuhoy.com/*
 
 # GitHub Scraper
 *://*.programcreek.com/*
