@@ -63,21 +63,31 @@
 *://*.vanced-ios.com/*
 *://*.vanced-player.com/*
 
-# Unofficial Download sites
+# Specific sites
 *://*.audacity-free.com/*
 *://*.audacityapp.net/*
 *://*.trackmaniapc.com/*
+*://*.audacity.de/*
 
+# General
 *://*.download.cnet.com/*
 *://*.uptodown.com/*
 *://*.freedownloadmanager.org/*
 *://*.softonic.com/*
 *://*.downloads.digitaltrends.com/*
 *://*.ccm.net/downloads/*
+*://*.wizcase.com/download/*
+*://*.techspot.com/downloads/*
+*://*.downzen.com/*
 
 # → German ones
 *://*.chip.de/downloads/*
 *://*.computerbild.de/download/*
+*://*.heise.de/download/product/*
+*://*.winfuture.de/*
+*://*.netzwelt.de/download/*
+*://*.giga.de/p/*
+*://*.computerbase.de/downloads/*
 
 # StackOverflow-ish/FAQ-based
 *://*.folkstalk.com/*
