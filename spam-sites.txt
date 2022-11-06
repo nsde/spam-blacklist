@@ -67,6 +67,17 @@
 *://*.mycheapdealz.com/*
 *://*.vbucks-collect.com/*
 *://*.freevbucks.ink/*
+*://*.techpresident.com/*
+*://*.vbucksbounty.com/*
+*://*.v-buckgenerator.website/*
+*://*.vbucks2022.com/*
+*://*.freevbx.online/*
+*://*.ecbucks.com/*
+*://*.bucksfree.fun/*
+*://*.topfregenerators.com/*
+*://*.progaming.icu/*
+*://*.vgeneratorbucks.co/*
+*://*.resources4gaming.com/*
 
 # Fake .exe Downloads
 *://*.gta-5-free.net/*
@@ -89,7 +100,7 @@
 *://*.trackmaniapc.com/*
 *://*.audacity.de/*
 
-# General
+# Fake downloads
 *://*.download.cnet.com/*
 *://*.uptodown.com/*
 *://*.freedownloadmanager.org/*
@@ -137,6 +148,7 @@
 
 # Other
 *://*.uzystore.com/*
+*://*.supereasy.com/*
 
 # WTF
 *://*.repacklab.com/*
