@@ -117,6 +117,7 @@
 *://*.technical-qa.com/*
 *://*.alexbecker.org/*
 *://*.copyprogramming.com/*
+*://*.9to5tutorial.com/*
 
 # GitHub-ish/Code-based
 *://*.programcreek.com/*
@@ -137,11 +138,5 @@
 # Other
 *://*.uzystore.com/*
 
-# ?
-*://*.9to5tutorial.com/*
-
 # WTF
 *://*.repacklab.com/*
-
-# Website not working?
-*://*.firesidegrillandbar.com/*
