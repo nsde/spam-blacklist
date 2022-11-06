@@ -96,6 +96,7 @@
 *://*.declarecode.com/*
 *://*.technical-qa.com/*
 *://*.alexbecker.org/*
+*://*.copyprogramming.com/*
 
 # GitHub-ish/Code-based
 *://*.programcreek.com/*
