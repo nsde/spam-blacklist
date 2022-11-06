@@ -48,7 +48,7 @@ at the top bar of your browser and clicking "**Options**".
 I've noticed how some search results in *DuckDuckGo* - the search engine I'm currently frequently using (aside from *Brave Search*) - are actually just spam websites filled with keywords built to earn money using ads.
 
 ### This project's goal
-I want to save others quite some time :)
+I want to save others quite some time and effort as well as protect them from as ads, malware and phishing.
 
 ## uBlacklist Info
 The following information is not up-to-date! Please see [here](https://github.com/iorate/ublacklist) for an official, updated list.
