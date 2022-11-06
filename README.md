@@ -40,6 +40,8 @@ at the top bar of your browser and clicking "**Options**".
 
 ## Links
 - [📥 .txt file](spam-sites.txt)
+- [⬇️ Raw .txt file](https://raw.githubusercontent.com/nsde/spam-sites/main/spam-sites.txt
+)
 - [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmain%2Fspam-sites.txt)
 
 ## About this project
