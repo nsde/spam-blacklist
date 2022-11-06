@@ -78,6 +78,7 @@
 *://*.progaming.icu/*
 *://*.vgeneratorbucks.co/*
 *://*.resources4gaming.com/*
+*://*.freevbucks-no-verification2022.blogspot.com/*
 
 # Fake .exe Downloads
 *://*.gta-5-free.net/*
@@ -101,6 +102,7 @@
 *://*.audacity.de/*
 
 # Fake downloads
+*://*.appsplayground.com/*
 *://*.download.cnet.com/*
 *://*.uptodown.com/*
 *://*.freedownloadmanager.org/*
@@ -148,7 +150,10 @@
 
 # Other
 *://*.uzystore.com/*
+
+# Mixed
 *://*.supereasy.com/*
+*://*.readermaster.com/*
 
 # WTF
 *://*.repacklab.com/*
