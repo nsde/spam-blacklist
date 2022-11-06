@@ -11,6 +11,7 @@
 
 # Subscription traps
 *://*.verifysuper.com/*
+*://*.storkmobi.com/*
 
 # Phishing
 *://*.jellycheat.com/*
@@ -47,6 +48,18 @@
 *://*.aimbot.games/*
 *://*.realapksclub.com/*
 *://*.lootapk.in/*
+
+# Fake game cheats
+*://*.clashofclansfreegems.com/*
+*://*.gemsforfree.com/*
+*://*.cocgemsgenerator.com/*
+*://*.freevbucks.cc/*
+*://*.morrison.pics/*
+*://*.fpal.org/*
+*://*.frevbucks.com/*
+*://*.freevbucks.pagesperso-orange.fr/*
+*://*.vbuck2022.com/*
+*://*.http://fnvbucks.epizy.com/*
 
 # Fake .exe Downloads
 *://*.gta-5-free.net/*
