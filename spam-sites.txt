@@ -1,5 +1,5 @@
 # SpamSites by NSDE
-# → https://github.com/nsde/spam-sites
+# → github.com/nsde/spam-sites
 
 # PLEASE report issues and suggest
 # new sites using the "Issues" tab at
@@ -53,13 +53,20 @@
 *://*.clashofclansfreegems.com/*
 *://*.gemsforfree.com/*
 *://*.cocgemsgenerator.com/*
+
 *://*.freevbucks.cc/*
 *://*.morrison.pics/*
 *://*.fpal.org/*
 *://*.frevbucks.com/*
 *://*.freevbucks.pagesperso-orange.fr/*
 *://*.vbuck2022.com/*
-*://*.http://fnvbucks.epizy.com/*
+*://*.fnvbucks.epizy.com/*
+*://*.fre-vbucks.pro/*
+*://*.freevbux22.club/*
+*://*.vbucks-goo.com/*
+*://*.mycheapdealz.com/*
+*://*.vbucks-collect.com/*
+*://*.freevbucks.ink/*
 
 # Fake .exe Downloads
 *://*.gta-5-free.net/*
