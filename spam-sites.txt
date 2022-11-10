@@ -136,6 +136,7 @@
 *://*.programcreek.com/*
 *://*.codegrepper.com/*
 *://*.w3codelab.com/*
+*://*.issueantenna.com/*
 
 # Poor quality
 *://*.vidyasheela.com/*
