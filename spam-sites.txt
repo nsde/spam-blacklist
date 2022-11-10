@@ -137,6 +137,7 @@
 *://*.codegrepper.com/*
 *://*.w3codelab.com/*
 *://*.issueantenna.com/*
+*://*.awesomeopensource.com/*
 
 # Poor quality
 *://*.vidyasheela.com/*
