@@ -113,6 +113,9 @@
 *://*.techspot.com/downloads/*
 *://*.downzen.com/*
 
+# → Mods/Plugins/etc.
+*://*.9minecraft.net/*
+
 # → German ones
 *://*.chip.de/downloads/*
 *://*.computerbild.de/download/*
