@@ -58,3 +58,6 @@ As of November 2022, *Google*, *Bing*, *Brave*, *DuckDuckGo*, and *Qwant* are **
 
 ### Supported web browsers
 [uBlacklist](https://github.com/iorate/ublacklist) - the extension this filter list mainly was made for - works on almost all on desktop computers. On Android, you can use [Kiwi](https://alternativeto.net/software/kiwi-browser/about/) and on iOS, Safari.
+
+***
+**Info** At 28th Nov 2022, this repository has been renamed from "spam-sites" to "spam-blacklist". If any URL 404s, simply replace it accordingly.
