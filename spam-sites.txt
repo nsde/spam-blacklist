@@ -1,9 +1,5 @@
 # SpamSites by NSDE
-# → github.com/nsde/spam-sites
-
-# PLEASE report issues and suggest
-# new sites using the "Issues" tab at
-# the GitHub repository :)
+# → github.com/nsde/spam-blacklist
 
 # Licensed in 2022 under MIT
 
