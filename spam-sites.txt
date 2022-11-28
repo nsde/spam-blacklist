@@ -112,6 +112,14 @@
 *://*.wizcase.com/download/*
 *://*.techspot.com/downloads/*
 *://*.downzen.com/*
+*://*.software.informer.com/*
+*://*.filehorse.com/*
+*://*.agetintopc.com/*
+*://*.filehippo.de/*
+
+
+# Biased/questionable reviews in effort to sell own product
+*://*.democreator.wondershare.com/*
 
 # → Mods/Plugins/etc.
 *://*.9minecraft.net/*
@@ -124,6 +132,16 @@
 *://*.netzwelt.de/download/*
 *://*.giga.de/p/*
 *://*.computerbase.de/downloads/*
+
+# Biased/questionable/scam VPN/Proxy sites
+*://*.thebestvpnpro.com/*
+*://*.free-vpn-proxy.com/*
+*://*.rsvpnorthvalley.com/*
+*://*.topvpndeals.net/*
+*://*.vpnsrank.com/*
+*://*.grsm.io/*
+*://*.free-proxy-list.net/*
+*://*.bestvpn.co/*
 
 # StackOverflow-ish/FAQ-based
 *://*.folkstalk.com/*
