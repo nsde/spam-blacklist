@@ -44,11 +44,27 @@
 *://*.aimbot.games/*
 *://*.realapksclub.com/*
 *://*.lootapk.in/*
+*://*.apkbakht.com/*
+*://*.vastapk.com/*
+*://*.apkgarden.net/*
+*://*.bdjobresults.com/*
+*://*.apkrainbow.com/*
+*://*.stcuthbertsoakland.org/*
+*://*.cocservers.net/*
+*://*.clashofclanshackedapk.blogspot.com/*
+*://*.qc.to/*
+*://*.clashofclansmod-apk.mystrikingly.com/*
+*://*.softpedia.com/*
+*://*.cheats.is/*
+
+# Could possibly false-positive some users :(
+*://*.studymaterialz.in/*
 
 # Fake game cheats
 *://*.clashofclansfreegems.com/*
 *://*.gemsforfree.com/*
 *://*.cocgemsgenerator.com/*
+*://*.clashofclansviet.com/*
 
 *://*.freevbucks.cc/*
 *://*.morrison.pics/*
@@ -124,7 +140,6 @@
 *://*.agetintopc.com/*
 *://*.filehippo.de/*
 
-
 # Biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
 
@@ -139,6 +154,9 @@
 *://*.netzwelt.de/download/*
 *://*.giga.de/p/*
 *://*.computerbase.de/downloads/*
+*://*.pcwelt.de/downloads/*
+*://*.wintotal.de/download/*
+*://*.giga.de/downloads/*
 
 # Biased/questionable/scam VPN/Proxy sites
 *://*.thebestvpnpro.com/*
