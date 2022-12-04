@@ -1,11 +1,11 @@
 # 🚮 Spam Sites Filterlist/Blacklist (get rid of Malware & Adware!)
-### 💡 Topics: downloads, apps, gaming, programming, VPNs, proxies · 🇺🇸 & 🇩🇪 websites
+### 💡 Best support for: downloads, apps, gaming, programming, multimedia, VPNs, proxies · 🇺🇸 & 🇩🇪 websites
 ### ⛔ Currently blocks 155+ annoying or even harmful sites! · Made for: *uBlacklist*
 
 ###### This project is not made, endorsed, sponsored or affiliated with uBlacklist or its developers
 
 A list of annoying SEO domains to block in your search engine. Examples include websites with poor/no actual content other than keywords and ads.
-This is **especially** useful for smaller search engines such as *DuckDuckGo* or *Brave Search*!
+Not only can this blacklist protect your time and nerves, but is also great to block adware, malware and other types of badware.
 
 Feel free to use this list in your project in any way! You are totally welcome to create your own search engine and use my list in it.
 
@@ -31,10 +31,7 @@ at the top bar of your browser and clicking "**Options**".
     ![image](https://user-images.githubusercontent.com/67185896/198878233-b07ff549-5b25-4056-9013-8895cedd6ad3.png)
 
 8. Press "Enable"
-
-
-9. Have fun! For this example, I searched for "clash of light download hacked apk crack" on DuckDuckGo, and **6 out of the first 13 results were BLOCKED**! 
-![image](https://user-images.githubusercontent.com/67185896/198878423-5be0f369-7b7b-4151-a984-c536f1d94d0e.png)
+9. Profit
 
 ***
 
@@ -42,7 +39,7 @@ at the top bar of your browser and clicking "**Options**".
 - [📥 .txt file](spam-sites.txt)
 - [⬇️ Raw .txt file](https://raw.githubusercontent.com/nsde/spam-sites/main/spam-sites.txt
 )
-- [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmain%2Fspam-sites.txt)
+- [📜 Apply this uBlacklist](https://iorate.github.io/ublacklist/subscribe?name=NSDE_Spam-Sites&url=https%3A%2F%2Fraw.githubusercontent.com%2Fnsde%2Fspam-sites%2Fmain%2Fspam-sites.txt) (Make sure to update it regulary, as this project is still in developement!)
 
 ## About this project
 I've noticed how some search results in *DuckDuckGo* - the search engine I'm currently frequently using (aside from *Brave Search*) - are actually just spam websites filled with keywords built to earn money using ads.
@@ -58,6 +55,9 @@ As of November 2022, *Google*, *Bing*, *Brave*, *DuckDuckGo*, and *Qwant* are **
 
 ### Supported web browsers
 [uBlacklist](https://github.com/iorate/ublacklist) - the extension this filter list mainly was made for - works on almost all on desktop computers. On Android, you can use [Kiwi](https://alternativeto.net/software/kiwi-browser/about/) and on iOS, Safari.
+
+## How to contribute
+![guidelines](https://user-images.githubusercontent.com/67185896/205513932-9f43f117-df7b-4494-b596-6259f5e71a63.png)
 
 ***
 **Info** At 28th Nov 2022, this repository has been renamed from "spam-sites" to "spam-blacklist". If any URL 404s, simply replace it accordingly.
