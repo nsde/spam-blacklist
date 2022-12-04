@@ -96,6 +96,17 @@
 *://*.audacityapp.net/*
 *://*.trackmaniapc.com/*
 *://*.audacity.de/*
+*://*.vlc-download.de/*
+*://*.fileplanet.com/*
+*://*.vlc.de/*
+*://downloads.zdnet.de/*
+
+*://*.vlc.onl/*
+*://*.vlc-media-player-app.com/*
+*://*.fileplanet.com/*
+
+# Amazon search results are unwanted!
+*://*.amazon.*/*/s*
 
 # Fake downloads
 *://*.appsplayground.com/*
