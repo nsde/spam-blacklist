@@ -139,6 +139,7 @@
 *://*.filehorse.com/*
 *://*.agetintopc.com/*
 *://*.filehippo.de/*
+*://*.downloadastro.com/*
 
 # Biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
