@@ -56,6 +56,9 @@
 *://*.clashofclansmod-apk.mystrikingly.com/*
 *://*.softpedia.com/*
 *://*.cheats.is/*
+*://*.apkcombo.com/*
+*://*.napkforpc.com/*
+*://*.apkgk.com/*
 
 # Could possibly false-positive some users :(
 *://*.studymaterialz.in/*
@@ -155,6 +158,13 @@
 *://*.download.it/*
 *://*.softfamous.com/*
 *://*.softvido.com/*
+*://*.logitheque.com/*
+*://*.filehippo-filehippo.com/*
+*://*.filecr.com/*
+*://*.esoftner.com/*
+*://*.igetintopc.com/*
+*://*.getintopc.today/*
+*://*.dobreprogramy.pl/*
 
 # Possibly biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
