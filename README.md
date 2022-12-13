@@ -17,6 +17,9 @@ Feel free to use this list in your project in any way! You are totally welcome t
   
 2. Open the extension's settings by clicking on its icon 
 at the top bar of your browser and clicking "**Options**".
+
+    Can't see the extension icon on Firefox? Click ≡ -> Settings -> Extensions & Themes -> uBlacklist -> ･･･ -> Options. This should open the uBlacklist settings.
+
 3. Scroll down to "**Subscription**"
     
     ![image](https://user-images.githubusercontent.com/67185896/198878261-b420db8d-28c6-4cc5-84a6-109313e2483c.png)
