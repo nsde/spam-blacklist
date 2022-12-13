@@ -50,15 +50,28 @@
 *://*.bdjobresults.com/*
 *://*.apkrainbow.com/*
 *://*.stcuthbertsoakland.org/*
-*://*.cocservers.net/*
-*://*.clashofclanshackedapk.blogspot.com/*
 *://*.qc.to/*
-*://*.clashofclansmod-apk.mystrikingly.com/*
 *://*.softpedia.com/*
 *://*.cheats.is/*
 *://*.apkcombo.com/*
 *://*.napkforpc.com/*
 *://*.apkgk.com/*
+*://*.fmcpe.com/*
+*://*.androjungle.com/*
+*://*.androidprog.com/*
+*://*.apkvision.com/*
+*://*.i1apk.com/*
+*://*.modlovers.com/*
+*://*.happymod.com/*
+*://*.agfy.co/*
+*://*.techzapk.com/*
+*://*.playmods.net/*
+*://*.apkmody.com/*
+*://*.mcpe-planet.com/*
+*://*.apkfolks.com/*
+*://*.latestmodapks.com/*
+*://*.fmcpe.com/*
+*://*.androidp1.com/*
 
 # Could possibly false-positive some users :(
 *://*.studymaterialz.in/*
@@ -68,6 +81,9 @@
 *://*.gemsforfree.com/*
 *://*.cocgemsgenerator.com/*
 *://*.clashofclansviet.com/*
+*://*.clashofclansmod-apk.mystrikingly.com/*
+*://*.cocservers.net/*
+*://*.clashofclanshackedapk.blogspot.com/*
 
 *://*.freevbucks.cc/*
 *://*.morrison.pics/*
@@ -165,6 +181,10 @@
 *://*.igetintopc.com/*
 *://*.getintopc.today/*
 *://*.dobreprogramy.pl/*
+*://*.softfamous.com/*
+*://*.steamunlocked.net/*
+*://*.softlay.com/*
+*://*.install-game.com/*
 
 # Possibly biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
