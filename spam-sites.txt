@@ -140,6 +140,15 @@
 *://*.agetintopc.com/*
 *://*.filehippo.de/*
 *://*.downloadastro.com/*
+*://*.fileshipposoftwares.com/*
+*://*.lo4d.com/*
+*://*.filecroco.com/*
+*://*.softradar.com/*
+*://*.pesktop.com/*
+*://*.videohelp.com/software/*
+*://*.softclips.dedyn.io/*
+*://*.kubadownload.com/*
+*://*.hanconsu.com/*
 
 # Biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
