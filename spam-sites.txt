@@ -154,6 +154,7 @@
 *://*.filehippo.com/*
 *://*.download.it/*
 *://*.softfamous.com/*
+*://*.softvido.com/*
 
 # Possibly biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
