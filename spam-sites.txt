@@ -107,24 +107,26 @@
 *://*.vanced-ios.com/*
 *://*.vanced-player.com/*
 
-# Specific sites
-*://*.audacity-free.com/*
-*://*.audacityapp.net/*
-*://*.trackmaniapc.com/*
-*://*.audacity.de/*
-*://*.vlc-download.de/*
-*://*.fileplanet.com/*
-*://*.vlc.de/*
-*://downloads.zdnet.de/*
-
-*://*.vlc.onl/*
-*://*.vlc-media-player-app.com/*
-*://*.fileplanet.com/*
-
 # Amazon search results are unwanted!
 *://*.amazon.*/*/s*
 
+# Specific sites
+*://*.trackmaniapc.com/*
+
+*://*.audacity-free.com/*
+*://*.audacityapp.net/*
+*://*.audacity.de/*
+
+*://*.vlc.de/*
+*://*.vlc-download.de/*
+*://*.vlc.onl/*
+*://*.vlc-media-player-app.com/*
+
+*://*.hitfilm-express.net/*
+
 # Fake downloads
+*://*.fileplanet.com/*
+*://*.downloads.zdnet.de/*
 *://*.appsplayground.com/*
 *://*.download.cnet.com/*
 *://*.uptodown.com/*
@@ -149,9 +151,13 @@
 *://*.softclips.dedyn.io/*
 *://*.kubadownload.com/*
 *://*.hanconsu.com/*
+*://*.filehippo.com/*
+*://*.download.it/*
+*://*.softfamous.com/*
 
-# Biased/questionable reviews in effort to sell own product
+# Possibly biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
+*://*.wondershare.es/video-editor/*
 
 # → Mods/Plugins/etc.
 *://*.9minecraft.net/*
