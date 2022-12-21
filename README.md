@@ -1,6 +1,6 @@
-# 🚮 Spam Sites Filterlist/Blacklist (get rid of Malware & Fraud!)
+# 🚮 Spam Sites Filterlist/Blacklist
 ### 💡 Best support for: downloads, apps, gaming, programming, multimedia, VPNs, proxies · 🇺🇸 & 🇩🇪 websites
-### ⛔ Currently blocks *hundreds* of annoying or even harmful sites! · Made for: *uBlacklist*
+### ⛔ Currently blocks *248* harmful and malicious websites · Made for: *uBlacklist*
 
 ###### This project is not made, endorsed, sponsored or affiliated with uBlacklist or its developers
 
