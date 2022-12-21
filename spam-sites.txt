@@ -100,6 +100,15 @@
 *://*.keygensoft.com/*
 *://*.apkgit.co/*
 *://*.usagag.com/*
+*://*.igeekshub.com/*
+*://*.apkcrusher.com/*
+*://*.beebom.com/*
+*://*.modavailable.com/*
+*://*.blogchoigame.net/*
+*://*.gamesgyt.blogspot.com/*
+*://*.9mod.net/*
+*://*.apksail.com/*
+*://*.shiftdell.com/*
 
 # Could possibly false-positive some users :(
 *://*.studymaterialz.in/*
