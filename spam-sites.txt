@@ -120,6 +120,15 @@
 *://*.vgeneratorbucks.co/*
 *://*.resources4gaming.com/*
 *://*.freevbucks-no-verification2022.blogspot.com/*
+*://*.apkmodhere.com/*
+*://*.mcpedl.org/*
+*://*.vshare.com/*
+*://*.mobomarket.net/*
+*://*.hiapphere.com/*
+*://*.root-nation.com/*
+*://*.apksim.com/*
+*://*.uoldown.com/*
+*://*.kingmodapk.net/*
 
 # Fake .exe Downloads
 *://*.gta-5-free.net/*
