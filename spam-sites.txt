@@ -82,6 +82,24 @@
 *://*.apk-house.com/*
 *://*.tecnoandroid.net/*
 *://*.5play.ru/*
+*://*.bestforandroid.com/*
+*://*.divyanet.com/*
+*://*.mcpe-monster.com/*
+*://*.techylist.com/*
+*://*.minecraft-download.eu/*
+*://*.andropalace.org/*
+*://*.cracked-games.org/*
+*://*.iplayplus.net/*
+*://*.apkmodo.net/*
+*://*.moddroid.co/*
+*://*.igeekshub.com/*
+*://*.nextalerts.com/*
+*://*.pubglitepc.co/*
+*://*.apkspure.com/*
+*://*.modapkdown.com/*
+*://*.keygensoft.com/*
+*://*.apkgit.co/*
+*://*.usagag.com/*
 
 # Could possibly false-positive some users :(
 *://*.studymaterialz.in/*
