@@ -1,5 +1,5 @@
 # 🚮 Spam Sites Filterlist/Blacklist
-### 💡 Best support for: downloads, apps, gaming, programming, multimedia, VPNs, proxies · 🇺🇸 & 🇩🇪 websites
+### 💡 Best support for: downloads, apps, gaming, programming, multimedia, VPNs, proxies · 🇺🇸 & 🇩🇪 websites · Google, DuckDuckGo, Brave Search 
 ### ⛔ Currently blocks *248* harmful and malicious websites · Made for: *uBlacklist*
 ~100 fake APK download sites are blocked!
 
