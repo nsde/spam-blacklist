@@ -72,6 +72,16 @@
 *://*.latestmodapks.com/*
 *://*.fmcpe.com/*
 *://*.androidp1.com/*
+*://*.monster-mcpe.com/*
+*://*.revdl.com/*
+*://*.cracksoon.com/*
+*://*.rexdl.com/*
+*://*.modapktown.com/*
+*://*.startcrack.com/*
+*://*.freegamepick.net/*
+*://*.apk-house.com/*
+*://*.tecnoandroid.net/*
+*://*.5play.ru/*
 
 # Could possibly false-positive some users :(
 *://*.studymaterialz.in/*
