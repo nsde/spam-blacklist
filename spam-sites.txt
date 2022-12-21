@@ -195,6 +195,15 @@
 *://*.steamunlocked.net/*
 *://*.softlay.com/*
 *://*.install-game.com/*
+*://*.apksum.com/*
+*://*.apkaward.com/*
+*://*.apkshub.com/*
+*://*.apkbe.com/*
+*://*.apkmody.io/*
+*://*.apkvision.com/*
+*://*.androidp1.com/*
+*://*.malavida.com/*
+*://*.techbigs.com/*
 
 # Possibly biased/questionable reviews in effort to sell own product
 *://*.democreator.wondershare.com/*
@@ -205,6 +214,7 @@
 
 # → German ones
 *://*.chip.de/downloads/*
+*://*.beste-apps.chip.de/*
 *://*.computerbild.de/download/*
 *://*.heise.de/download/product/*
 *://*.winfuture.de/*
