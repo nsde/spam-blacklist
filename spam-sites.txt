@@ -133,6 +133,23 @@
 *://*.techrrival.com/*
 *://*.wallhax.com/*
 
+*://*.techindroid.com/*
+*://*.minigold.co.id/*
+*://*.getjar.com/*
+*://*.crackswall.com/*
+*://*.androidterritory.com/*
+*://*.modapksdownload.com/*
+*://*.gamense.com/*
+*://*.goandroidapk.com/*
+*://*.techraze.com/*
+*://*.apkcor.com/*
+*://*.clashofclanshackapk.com/*
+*://*.freeapkfiles.com/*
+*://*.android-1.com/*
+*://*.tech4blog.com/*
+*://*.clashoflights.org/*
+*://*.techsheap.com/*
+
 *://*.clashofclansfreegems.com/*
 *://*.gemsforfree.com/*
 *://*.cocgemsgenerator.com/*
