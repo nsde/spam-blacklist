@@ -114,6 +114,25 @@
 *://*.studymaterialz.in/*
 
 # Fake game cheats
+*://*.chop-thegame.com/*
+*://*.allapk.ru/*
+*://*.apkkite.com/*
+*://*.iniquus.io/*
+*://*.getmods.net/*
+*://*.pro-cheats.net/*
+*://*.hackapk.org/*
+*://*.cheater.fun/*
+*://*.touchtapplay.com/*
+*://*.iwantcheats.net/*
+*://*.indiafantasy.com/*
+*://*.descargargames.com/*
+*://*.mundoperfecto.net/*
+*://*.descargargames.com/*
+*://*.getmodsapk.com/*
+*://*.playgoapk.com/*
+*://*.techrrival.com/*
+*://*.wallhax.com/*
+
 *://*.clashofclansfreegems.com/*
 *://*.gemsforfree.com/*
 *://*.cocgemsgenerator.com/*
